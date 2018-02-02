@@ -1,21 +1,21 @@
 {
-  "name": "proj3_b4_starter",
+  "name": "bs4starter",
   "version": "1.0.0",
   "description": "Bootstrap 4 workflow",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "Tahir Kalim",
+  "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
   }
